@@ -25,3 +25,16 @@ This project is ideal for educational purposes, demonstrating object-oriented pr
    ```bash
    git clone https://github.com/wlculpepper27/Aggie-Book-Store.git
    cd Aggie-Book-Store
+
+🛠 Features
+Add and manage authors and books.
+
+Track inventory items.
+
+Simulate bookstore operations.
+
+📄 License
+This project is open-source and available under the MIT License.
+
+👤 Author
+GitHub: @wlculpepper27
